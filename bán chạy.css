@@ -1,0 +1,23 @@
+.container{
+    color: blue;
+    font-size:150%;
+}
+.thongtin2{
+    color: rgb(0, 0, 0);
+    font-size: 100%;
+}
+.giá{
+    color: red;
+    font-size: 130%;
+}
+.the1{
+    border-style: groove;
+    
+}
+.dt{
+    font-size: 150%;
+}
+.chay{
+    font-size: 150%;
+    color: rgb(102, 0, 255);
+}
